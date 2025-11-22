@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<link href="https://ycb.glados.pro/Finobe_files/style.css" rel="stylesheet">
+<nav>
+
+</nav>
+
+<h1>Welcome to Revival List List (RLL)</h1>
+<h2>This is a List For All Revival Lists</h2>
+
