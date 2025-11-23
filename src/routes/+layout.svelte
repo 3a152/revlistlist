@@ -11,8 +11,19 @@
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </svelte:head>
 
-<nav>
-	
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	<div class="container d-flex justify-content-between align-items-center">
+     <a class="navbar-brand" href="/">
+	 <img src="/images/logo.png" alt="logo" height="30" class="me-2">Revival List List
+	</a>
+
+	<div class="d-flex align-items-center">
+<a class="nav-link text-light me-3" href="/">Home</a>
+<a class="nav-link text-light me-3" href="/credits">Credits</a>
+
+<button class="btn btn-primary">List</button>
+	</div>
+	</div>
 </nav>
 
 {@render children()}
