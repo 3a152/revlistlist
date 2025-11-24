@@ -1,5 +1,5 @@
 <script>
-	import favicon from '$lib/assets/favicon.svg';
+	import favicon from '$lib/assets/favicon.png';
 	import "./styles/style.css"
 
 	let { children } = $props();
@@ -14,7 +14,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 	<div class="container d-flex justify-content-between align-items-center">
      <a class="navbar-brand" href="/">
-	 <img src="/images/logo.png" alt="logo" height="30" class="me-2">Revival List List
+	 <img src="/images/favicon.png" alt="logo" height="30" class="me-2 rounded">Revival List List
 	</a>
 
 	<div class="d-flex align-items-center">

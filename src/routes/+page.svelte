@@ -10,3 +10,5 @@
         font-size: 30px;
     }
 </style>
+
+<img src="/images/fulllogo.png" alt="full logo" class="d-block mx-auto rounded">

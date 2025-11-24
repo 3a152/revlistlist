@@ -6,7 +6,7 @@
 <div class="box">
   <h1>{status}</h1>
   <p>{error?.message ?? "yeah smth went wrong"}</p>
-  <img src="/src/images/sadblob.png" alt="crying blobmoji" class="d-block mx-auto rounded">
+  <img src="/images/sadblob.png" alt="crying blobmoji" class="d-block mx-auto rounded">
    <a href="/" class="btn btn-success mt-3">go back</a>
 </div>
 
