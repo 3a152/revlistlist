@@ -22,3 +22,12 @@ body {
     color: white;
     width: 80%;
 }
+
+.custom-containers {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: 121212;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
