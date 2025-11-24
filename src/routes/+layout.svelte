@@ -21,9 +21,13 @@
 <a class="nav-link text-light me-3" href="/">Home</a>
 <a class="nav-link text-light me-3" href="/credits">Credits</a>
 
-<button class="btn btn-primary">List</button>
+<a href="/list" class="btn btn-primary">List</a>
+<a href="/gallery" class="btn btn-primary">Gallery</a>
+<a href="/clicker" class="btn btn-primary">Clicker</a>
 	</div>
 	</div>
 </nav>
+
+<slot />
 
 {@render children()}
