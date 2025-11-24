@@ -18,16 +18,13 @@
 	</a>
 
 	<div class="d-flex align-items-center">
-<a class="nav-link text-light me-3" href="/">Home</a>
-<a class="nav-link text-light me-3" href="/credits">Credits</a>
-
-<a href="/list" class="btn btn-primary">List</a>
-<a href="/gallery" class="btn btn-primary">Gallery</a>
-<a href="/clicker" class="btn btn-primary">Clicker</a>
+<a class="btn btn-primary mx-2" href="/credits">Credits</a>
+<a href="/list" class="btn btn-primary mx-2">List</a>
+<a href="/gallery" class="btn btn-primary mx-2">Gallery</a>
+<a href="/clicker" class="btn btn-primary mx-2">Clicker</a>
 	</div>
 	</div>
 </nav>
 
-<slot />
 
 {@render children()}
