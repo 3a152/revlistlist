@@ -67,26 +67,12 @@
 
 <div class="col">
     <div class="card h-100 bg-warning">
-        <img src="/images/placeholder" alt="placeholder" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
-        <div class="card-body">
-          <h5 class="card-title">placeholder</h5>
-          <p class="card-text">By placeholder</p>
-          <div class="d-flex gap-2">
-          <a href="https://placeholder" class="btn btn-primary">Website</a>
-          <a href="https://placeholder" class="btn btn-primary">Discord</a>
-          </div>
-        </div>
-    </div>
-</div>
-
-<div class="col">
-    <div class="card h-100 bg-warning">
         <img src="/images/placeholder.png" alt="placeholder" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
         <div class="card-body">
-          <h5 class="card-title">placeholder</h5>
-          <p class="card-text">By placeholder</p>
+          <h5 class="card-title">orcrevivals</h5>
+          <p class="card-text">By txarrak</p>
           <div class="d-flex gap-2">
-          <a href="https://placeholder" class="btn btn-primary">Website</a>
+          <a href="https://orcrevivals.github.io/" class="btn btn-primary">Website</a>
           </div>
         </div>
     </div>
@@ -103,7 +89,7 @@
 
 <div class="col">
     <div class="card h-100 bg-danger">
-        <img src="/images/placeholder" alt="placeholder" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
+        <img src="/images/placeholder.png" alt="placeholder" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
         <div class="card-body">
           <h5 class="card-title">placeholder</h5>
           <p class="card-text">By placeholder</p>
