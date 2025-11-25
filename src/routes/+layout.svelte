@@ -21,7 +21,6 @@
 <a class="btn btn-primary mx-2" href="/credits">Credits</a>
 <a href="/list" class="btn btn-primary mx-2">List</a>
 <a href="/gallery" class="btn btn-primary mx-2">Gallery</a>
-<a href="/clicker" class="btn btn-primary mx-2">Clicker</a>
 <a href="https://discord.gg/w57d88V7TE" class="btn btn-primary mx-2">Discord</a>
 	</div>
 	</div>
