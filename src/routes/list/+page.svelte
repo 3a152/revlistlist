@@ -15,13 +15,23 @@
 
 <hr>
 
-<div class="container my-5">
+<h1 style="text-align: center;">SECTIONS</h1>
+<div class="text-center">
+    <a href="#manitained" class="btn btn-success">Manitained</a>
+    <a href="#dead" class="btn btn-warning">Dead</a>
+    <a href="#dont" class="btn btn-danger">Don't</a>
+</div>
+
+<hr>
+
+<div class="container my-5" id="maintained">
     <div class="row row-cols-1 row-cols-md3 g-4">
 
-<!--revival list.com-->
+<h1>Maintained</h1>
+
 <div class="col">
-    <div class="card h-100">
-        <img src="/images/revlistcom.png" alt="revival list" class="card-img-top rounded">
+    <div class="card h-100 bg-success">
+        <img src="/images/logo.png" alt="revival list" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
         <div class="card-body">
           <h5 class="card-title">Roblox Revival Collectors</h5>
           <p class="card-text">By VandGD</p>
@@ -33,7 +43,90 @@
     </div>
 </div>
 
+<div class="col">
+    <div class="card h-100 bg-success">
+        <img src="/images/KARL.png" alt="karl" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
+        <div class="card-body">
+          <h5 class="card-title">KARL(Kick Ass Revival List)</h5>
+          <p class="card-text">By sharklebanan</p>
+          <div class="d-flex gap-2">
+          <a href="https://karl.xo.je" class="btn btn-primary">Website</a>
+          </div>
+        </div>
+    </div>
+</div>
 
+    </div>
+</div>
+
+
+<div class="container my-5" id="dead">
+    <div class="row row-cols-1 row-cols-md3 g-4">
+
+<h1>Dead</h1>
+
+<div class="col">
+    <div class="card h-100 bg-warning">
+        <img src="/images/placeholder" alt="placeholder" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
+        <div class="card-body">
+          <h5 class="card-title">placeholder</h5>
+          <p class="card-text">By placeholder</p>
+          <div class="d-flex gap-2">
+          <a href="https://placeholder" class="btn btn-primary">Website</a>
+          <a href="https://placeholder" class="btn btn-primary">Discord</a>
+          </div>
+        </div>
+    </div>
+</div>
+
+<div class="col">
+    <div class="card h-100 bg-warning">
+        <img src="/images/placeholder.png" alt="placeholder" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
+        <div class="card-body">
+          <h5 class="card-title">placeholder</h5>
+          <p class="card-text">By placeholder</p>
+          <div class="d-flex gap-2">
+          <a href="https://placeholder" class="btn btn-primary">Website</a>
+          </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+
+
+<div class="container my-5" id="dont">
+    <div class="row row-cols-1 row-cols-md3 g-4">
+
+<h1>Don't</h1>
+
+<div class="col">
+    <div class="card h-100 bg-danger">
+        <img src="/images/placeholder" alt="placeholder" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
+        <div class="card-body">
+          <h5 class="card-title">placeholder</h5>
+          <p class="card-text">By placeholder</p>
+          <div class="d-flex gap-2">
+          <a href="https://placeholder" class="btn btn-primary">Website</a>
+          <a href="https://placeholder" class="btn btn-primary">Discord</a>
+          </div>
+        </div>
+    </div>
+</div>
+
+<div class="col">
+    <div class="card h-100 bg-danger">
+        <img src="/images/placeholder.png" alt="placeholder" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
+        <div class="card-body">
+          <h5 class="card-title">placeholder</h5>
+          <p class="card-text">By placeholder</p>
+          <div class="d-flex gap-2">
+          <a href="https://placeholder" class="btn btn-primary">Website</a>
+          </div>
+        </div>
+    </div>
+</div>
 
     </div>
 </div>
