@@ -17,7 +17,7 @@
 
 <h1 style="text-align: center;">SECTIONS</h1>
 <div class="text-center">
-    <a href="#manitained" class="btn btn-success">Manitained</a>
+    <a href="#maintained" class="btn btn-success">Maintained</a>
     <a href="#dead" class="btn btn-warning">Dead</a>
     <a href="#dont" class="btn btn-danger">Don't</a>
 </div>
