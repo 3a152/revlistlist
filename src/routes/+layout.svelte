@@ -23,6 +23,9 @@
 <a href="/list" class="btn btn-primary mx-2">List</a>
 <a href="/gallery" class="btn btn-primary mx-2">Gallery</a>
 <a href="https://discord.gg/w57d88V7TE" class="btn btn-primary mx-2">Discord</a>
+
+<a href="https://archive.org/details/videoplayback_20251214_1433" class="btn btn-primary mx-2">itteh's retirement</a>
+
 	</div>
 	</div>
 </nav>
