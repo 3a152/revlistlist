@@ -19,7 +19,7 @@
 <div class="text-center">
     <a href="#maintained" class="btn btn-success">Maintained</a>
     <a href="#dead" class="btn btn-warning">Dead</a>
-    <a href="#dont" class="btn btn-danger">Don't</a>
+    <a href="#dont" class="btn btn-danger">Don't Use</a>
 </div>
 
 <hr>
