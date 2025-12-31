@@ -1,7 +1,7 @@
 <div class="intro">
 <h1>The List</h1>
 <h2>you wanted the list right?, here you go.</h2>
-<h6>if you want your list to be removed please dm @3a152 or @s3dcat.</h6>
+<h6>if you want your list to be removed please dm @3a152 or @s3dcat on discord.</h6>
 </div>
 
 <style>
