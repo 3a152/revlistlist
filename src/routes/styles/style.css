@@ -2,6 +2,11 @@ html {
     scroll-behavior: smooth;
 }
 
+:root {
+    --bs-body-bg: #f8f8f8;
+    --bs-body-color: #333333;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -9,8 +14,8 @@ body {
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
   text-align: var(--bs-body-text-align);
-  color: #212529;
-  background-color: #414141;
+  color: var(--bs-body-bg);
+  background-color: var(--bs-body-color)
 }
 
 h1, h2, h3, h4, h5, h6 {
