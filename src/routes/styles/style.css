@@ -3,8 +3,8 @@ html {
 }
 
 :root {
-    --bs-body-bg: #f8f8f8;
-    --bs-body-color: #333333;
+    --bs-body-bg: #333333;
+    --bs-body-color: #ffffff;
 }
 
 body {
@@ -14,8 +14,8 @@ body {
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
   text-align: var(--bs-body-text-align);
-  color: var(--bs-body-bg);
-  background-color: var(--bs-body-color)
+  color: var(--bs-body-color);
+  background-color: var(--bs-body-bg)
 }
 
 h1, h2, h3, h4, h5, h6 {
