@@ -57,6 +57,19 @@
     </div>
 </div>
 
+<div class="col">
+    <div class="card h-100 bg-success">
+        <img src="/images/placeholder.png" alt="karl" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
+        <div class="card-body">
+          <h5 class="card-title">ECShall</h5>
+          <p class="card-text">By Elaina</p>
+          <div class="d-flex gap-2">
+          <a href="https://ecshall.neocities.org/list" class="btn btn-primary">Website</a>
+          </div>
+        </div>
+    </div>
+</div>
+
     </div>
 </div>
 
