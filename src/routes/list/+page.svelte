@@ -108,8 +108,8 @@
           <h5 class="card-title">viadlist</h5>
           <p class="card-text">By luaguns/java</p>
           <div class="d-flex gap-2">
-          <a href="https://placeholder" class="btn btn-primary">Website</a>
-          <a href="https://viad.luaguns.xyz" class="btn btn-primary">Discord</a>
+          <a href="https://viad.luaguns.xyz" class="btn btn-primary">Website</a>
+          <a href="https://placeholder" class="btn btn-primary">Discord</a>
           </div>
         </div>
     </div>
