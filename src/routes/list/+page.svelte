@@ -106,7 +106,7 @@
         <img src="/images/placeholder.png" alt="placeholder" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
         <div class="card-body">
           <h5 class="card-title">viadlist</h5>
-          <p class="card-text">By luaguns/java</p>
+          <p class="card-text">By luagunsx/java</p>
           </div>
         </div>
     </div>
