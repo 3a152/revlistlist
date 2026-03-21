@@ -98,7 +98,7 @@
 
 <div class="container my-5" id="dont">
     <div class="row row-cols-1 row-cols-md3 g-4">
-
+    </div>
 <h1>Don't</h1>
 
 <div class="col">
@@ -123,4 +123,5 @@
           </div>
         </div>
     </div>
+</div>
 </div>
