@@ -105,7 +105,7 @@
     <div class="card h-100 bg-danger">
         <img src="/images/placeholder.png" alt="placeholder" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
         <div class="card-body">
-          <h5 class="card-title">viadlist</h5>
+          <h5 class="card-title">silicone</h5>
           <p class="card-text">By luagunsx/java</p>
           </div>
         </div>
@@ -116,10 +116,9 @@
     <div class="card h-100 bg-danger">
         <img src="/images/placeholder.png" alt="placeholder" class="card-img-top rounded me-2" style="width: 50px; height :50px;">
         <div class="card-body">
-          <h5 class="card-title">placeholder</h5>
-          <p class="card-text">By placeholder</p>
+          <h5 class="card-title">SCXlist</h5>
+          <p class="card-text">By j5vz</p>
           <div class="d-flex gap-2">
-          <a href="https://placeholder" class="btn btn-primary">Website</a>
           </div>
         </div>
     </div>
